@@ -1,6 +1,6 @@
 # Hotel Room Management System
 
-his is a malicious change
+This is a malicious change
 
 This project is a web application for managing hotel rooms, allowing users to view, add, and list room information.
 
